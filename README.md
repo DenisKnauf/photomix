@@ -36,8 +36,9 @@ Optional:
 
 Ruby Gems: See `Gemfile`
 
-Configuration {#configuration}
+Configuration
 =============
+{#configuration}
 
 `config/balder.rb` has the following adjustable settings:
 
